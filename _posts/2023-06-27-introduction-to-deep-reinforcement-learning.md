@@ -23,7 +23,7 @@ categories: [Deep Reinforcement Learning, Notes]
 
 * Artificial Intelligence (AI) is a domain of computer science dedicated to developing software capable of exhibiting attributes of intelligence.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/subfields_of_artificial_intelligence.jpg" class="responsive-img"/>
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/subfields_of_artificial_intelligence.jpg" class="img-fluid rounded z-depth-1" %}
 
 ## Machine Learning (ML)
 
@@ -35,14 +35,14 @@ categories: [Deep Reinforcement Learning, Notes]
 * **Reinforcement Learning (RL):** A method that learns from trial and error
     * E.g., pong-playing agent
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/main_branches_of_machine_learning.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/main_branches_of_machine_learning.jpg" class="img-fluid rounded z-depth-1" %}
 
 ## Deep Learning (DL)
 
 * Deep Learning employs multi-layered non-linear function approximations, also known as neural networks, to address ML tasks. Essentially, it is a suite of techniques that utilize neural networks to solve ML challenges.
 
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/deep_learning_is_a_powerful_toolbox.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/deep_learning_is_a_powerful_toolbox.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### Deep Reinforcement Learning (DRL)
 
@@ -57,7 +57,7 @@ categories: [Deep Reinforcement Learning, Notes]
 * **Operations Research (OR)**: Investigates decision-making under uncertain conditions, generally featuring a larger action space than in DRL.
 * **Psychology**: Studies human behavior, which frequently encapsulates complex sequential decision-making problems under uncertainty.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/the_synergy_between_similar_fields.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/the_synergy_between_similar_fields.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### Agent and Enviroment
 
@@ -67,7 +67,7 @@ categories: [Deep Reinforcement Learning, Notes]
 * **Environment:** Includes everything external to the agent, beyond the agent's control, and everything that follows the agent's decisions.
     * In the context of training a robot arm to pick up a toy, the objects to be picked up, the tray where the objects reside, atmospheric conditions like wind, and even the robot arm itself are all considered parts of the environment.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/boundary_between_agent_and_environment.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/boundary_between_agent_and_environment.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### States and Observations
 
@@ -75,7 +75,7 @@ categories: [Deep Reinforcement Learning, Notes]
 * **State:** A comprehensive description of the environment, or an instantiation of the state space.
 * **Observation:** A partial or incomplete description of the environment.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/states_vs_observations.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/states_vs_observations.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### Reinforcement Learning Cycle
 
@@ -84,7 +84,7 @@ categories: [Deep Reinforcement Learning, Notes]
     * Goals are defined via the reward function.
 * **Model:** A set of the transitions and rewards.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/the_reinforcement_learning_cycle.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/the_reinforcement_learning_cycle.jpg" class="img-fluid rounded z-depth-1" %}
 
 #### Agent’s Improvement process:
 
@@ -103,7 +103,7 @@ categories: [Deep Reinforcement Learning, Notes]
 * **Time Step:** A single cycle of interaction between the agent and the environment.
 * **Experience:** The set consisting of the state, the action, the reward, and the new state in a single time step.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/experience_tuples.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/experience_tuples.jpg" class="img-fluid rounded z-depth-1" %}
 
 
 * **Episodic Task:** Tasks that have a natural ending or goes on finitely many step.
@@ -117,20 +117,20 @@ categories: [Deep Reinforcement Learning, Notes]
 * **Temporal Credit Assignment Problem:** the challenge in determining which state and/or action is responsible for a reward the agent recieves
     * Usually occurs when the agent may have delayed rewards from an action or state that caused it hence the temporal aspect of the problem
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/temporal_credit_assignment_problem.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/temporal_credit_assignment_problem.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### Exploration vs. Exploitation
 
 * **Evaluative Feedback:** Feedback that provides an indication of performance but not correctness.
 * **Exploration versus Exploitation trade-off:** The balance between collecting new information from the environment and using known information to maximize rewards.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/exploration_vs_exploitation.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/exploration_vs_exploitation.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### Sampled Feedback
 
 * Learning from sparse or weak feedback becomes more challenging with samples only. The agent must be capable of generalizing to learn from sampled feedback.
 
-<img src="assets/img/posts/introduction-to-deep-reinforcement-learning/learning_from_sampled_feedback.jpg" class="responsive-img" />
+{% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/learning_from_sampled_feedback.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### Types of Agents
 
@@ -156,7 +156,7 @@ categories: [Deep Reinforcement Learning, Notes]
 * **Nate Kohl and Peter Stone - 2002:** Applied policy-gradient methods to train a soccer-playing robot.
 
 * **Mnih et al. - 2013, 2015:** Introduced the DQN algorithm, which learned to play Atari games from raw pixels.
-    * <img src="assets/img/posts/introduction-to-deep-reinforcement-learning/atari_dqn.jpg" class="responsive-img" />
+    {% include figure.liquid loading="eager" path="assets/img/posts/introduction-to-deep-reinforcement-learning/atari_dqn.jpg" class="responsive-img" class="img-fluid rounded z-depth-1" %}* 
 
 * **Silver et al. - 2014:** Released the deterministic policy gradient (DPG) algorithm.
 

@@ -13,7 +13,7 @@ Recently, I've been diving into the practice of implementing deep learning resea
 
 Starting with an independent study course at university, I explored deep learning intensively. To streamline the journey of understanding and implementing such papers, I've distilled the process into four steps:
 
-![](assets/img/posts/translating-theory-into-code/read_code_visualize_diagram.svg)
+{% include figure.liquid loading="eager" path="assets/img/posts/translating-theory-into-code/read_code_visualize_diagram.svg" class="img-fluid rounded z-depth-1" %}
 
 Let's break each one down.
 
@@ -21,7 +21,7 @@ Let's break each one down.
 
 Reading a research paper should be focused on understanding the process rather than memorizing details. Pay attention to the inputs, outputs, data transformations, and assumptions.
 
-![](assets/img/posts/translating-theory-into-code/questions.svg)
+{% include figure.liquid loading="eager" path="assets/img/posts/translating-theory-into-code/questions.svg" class="img-fluid rounded z-depth-1" %}
 
 To expedite the reading process, it helps to know where to find necessary details. Typically, the most crucial sections in a research paper are:
 

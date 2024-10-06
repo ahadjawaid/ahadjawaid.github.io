@@ -91,7 +91,7 @@ Pay attention to how we try to emulate the possible reactions of the environment
 
 #### Ways to represent an environment:
 
-{% include figure.liquid loading="eager" path="sets/img/posts/modeling-reinforcement-learning-problem/bandit-walk.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/posts/modeling-reinforcement-learning-problem/bandit-walk.jpg" class="img-fluid rounded z-depth-1" %}
 
 {% include figure.liquid loading="eager" path="assets/img/posts/modeling-reinforcement-learning-problem/bandit-walk-graph.jpg" class="img-fluid rounded z-depth-1" %}
 
