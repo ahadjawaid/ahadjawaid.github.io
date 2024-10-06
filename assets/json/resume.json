@@ -30,10 +30,7 @@
       "area": "Computer Science",
       "studyType": "Bachelors of Science",
       "startDate": "2021-08-21",
-      "endDate": "2024-05-23",
-      "courses": [
-        "Intelligent Systems Analysis"
-      ]
+      "endDate": "2024-05-23"
     },
     {
       "institution": "The University of Texas, Dallas",
@@ -42,14 +39,7 @@
       "area": "Computer Science",
       "studyType": "Masters of Science",
       "startDate": "2024-08-21",
-      "endDate": "Present",
-      "courses": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Robotics",
-        "Human Computer Interaction",
-        "Cognitive Science"
-      ]
+      "endDate": "Present"
     }
   ],
   "awards": [
