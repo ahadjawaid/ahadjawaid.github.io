@@ -150,7 +150,7 @@ Pay attention to how we try to emulate the possible reactions of the environment
 ### Extensions to MDPs
 - **Partially observable Markov decision process (POMDP):** When the agent can't fully observe the environment state.
 - **Factored Markov decision process (FMDP):** It compactly represents the transition and reward functions, enabling the representation of large MDPs.
-- **Continuous [Time|Action|State] Markov decision process:** When either time, action, state, or any combination of them are continuous.
+- **Continuous Markov decision process:** When either time, action, state, or any combination of them are continuous.
 - **Relational Markov decision process (RMDP):** It allows combining probabilistic and relational knowledge.
 - **Semi-Markov decision process (SMDP):** It allows the inclusion of abstract actions that take multiple time steps to complete.
 - **Multi-agent Markov decision process (MMDP):** It allows multiple agents in the same environment.
