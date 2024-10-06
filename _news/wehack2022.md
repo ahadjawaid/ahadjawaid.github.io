@@ -6,4 +6,4 @@ related_posts: false
 link: https://devpost.com/software/select-by-lexus
 ---
 
-Won 3rd place in the Toyota challenge at WeHack 2022.
+Won 3rd place in the Toyota challenge at WeHack 2022

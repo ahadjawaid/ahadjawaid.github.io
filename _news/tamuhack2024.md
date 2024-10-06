@@ -6,4 +6,4 @@ related_posts: false
 link: https://devpost.com/software/curis-rlajbk
 ---
 
-Awarded Best Use of AI in Education at TamuHack X.
+Awarded Best Use of AI in Education at TamuHack X
