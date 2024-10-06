@@ -1,12 +1,8 @@
 {
   "basics": {
     "name": "Ahad Jawaid",
-    "label": "Graduate Researcher",
-    "image": "",
     "email": "ahad.jawaid@utdallas.edu",
-    "phone": "(912) 123-4567",
-    "url": "https://ahadjawaid.github.io",
-    "summary": "A developer and research who likes to build cool things :)",
+    "summary": "I'm a developer and research who likes to build cool things :)",
     "profiles": [
       {
         "network": "Twitter",
@@ -26,25 +22,13 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "The University of Texas, Dallas",
       "location": "Richardson, Texas",
       "url": "https://www.utdallas.edu/",
       "area": "Computer Science",
-      "studyType": "BS",
+      "studyType": "Bachelors of Science",
       "startDate": "2021-08-21",
       "endDate": "2024-05-23",
       "courses": [
@@ -56,7 +40,7 @@
       "location": "Richardson, Texas",
       "url": "https://www.utdallas.edu/",
       "area": "Computer Science",
-      "studyType": "MS",
+      "studyType": "Masters of Science",
       "startDate": "2024-08-21",
       "endDate": "Present",
       "courses": [
@@ -103,7 +87,6 @@
       "name": "AWS Certified Developer - Associate",
       "date": "2022-05-22",
       "issuer": "Amazon Web Services",
-      "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     }
   ],
@@ -118,10 +101,9 @@
   ],
   "interests": [
     {
-      "name": "Computer Science",
+      "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Deep Learning",
         "Robotics",
