@@ -6,9 +6,6 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
-.about-page p {
-  text-align: justify;
-}
 
 @import
   "variables",
