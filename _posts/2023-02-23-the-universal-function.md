@@ -3,6 +3,7 @@ title: "Neural network: The universal function"
 layout: post
 author: "Ahad Jawaid"
 date: "2023-02-23"
+thumbnail: assets/img/posts/the-universal-function/filling-machine.png
 categories: [Deep Learning, Neueral Networks]
 ---
 
