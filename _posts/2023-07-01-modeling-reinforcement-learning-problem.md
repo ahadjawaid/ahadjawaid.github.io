@@ -3,7 +3,6 @@ title: "Modeling the Reinforcement Learning Problem"
 author: "Ahad Jawaid"
 layout: post
 date: "2023-07-01"
-image: "assets/blackboard.jpg"
 description: My notes on the second chapter of 'Grokking Deep Reinforcement Learning' by Miguel Morales. This post covers the components of the environment and how to model it using Markov Decision Processes (MDPs).
 categories: [Deep Reinforcement Learning]
 ---
@@ -31,13 +30,13 @@ To understand what we are modeling, we must first familiarize ourselves with the
     - *Sequential:* Denotes the delayed effect of an agent's actions, essentially the credit assignment problem.
     - *Uncertainty:* Highlights the unpredictability of the impact of an agent's actions on the environment, tying to balance the exploration vs exploitation trade-off.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/reinforcement-learning-interaction-cycle.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/reinforcement-learning-interaction-cycle.jpg" class="responsive-img" />
 
 ### The agent: The decision maker
 
 - **Agents:** These are entities solely responsible for making decisions that may influence the environment.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/internal-steps.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/internal-steps.jpg" class="responsive-img" />
 
 - **Agent's Improvement Process:**
     1. Interact
@@ -47,7 +46,7 @@ To understand what we are modeling, we must first familiarize ourselves with the
 ### The environment: Everything else
 - The *environment* symbolizes the problem at hand. It encapsulates everything external to the agent, anything that's beyond the agent's control but responds to the agent's decisions.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/environment-process.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/environment-process.jpg" class="responsive-img" />
 
 Pay attention to how we try to emulate the possible reactions of the environment to the agent's actions.
 
@@ -60,7 +59,7 @@ Pay attention to how we try to emulate the possible reactions of the environment
 
 - **State Space:** A combiniation of all possible variables and values that can characterize the environment.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/state-space.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/state-space.jpg" class="responsive-img" />
 
 - **Initial States:** A subset of states where the agent starts in the environment.
 
@@ -79,7 +78,7 @@ Pay attention to how we try to emulate the possible reactions of the environment
 - A *transition function* determines how the environment changes in response to an action. 
 - Denoted as $T(s, a, s')$, where $s$ is the current state, $a$ is the action taken, and $s'$ is the resulting state.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/transition-function.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/transition-function.jpg" class="responsive-img" />
 
 - **Stochastic Transitions:** Transitions that don't guarantee a single resulting state but could lead to multiple states, each with a different probability.
 
@@ -92,7 +91,7 @@ Pay attention to how we try to emulate the possible reactions of the environment
 
 - **Return:** The sum of the rewards collected in a single episode.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/reward-function.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/reward-function.jpg" class="responsive-img" />
 
 
 ### Common Types of Environments: 
@@ -104,13 +103,13 @@ Pay attention to how we try to emulate the possible reactions of the environment
 
 #### Ways to represent an environment:
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/bandit-walk.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/bandit-walk.jpg" class="responsive-img" />
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/bandit-walk-graph.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/bandit-walk-graph.jpg" class="responsive-img" />
 
 **Table Form**
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/bandit-walk-table.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/bandit-walk-table.jpg" class="responsive-img" />
 
 ## Markov Decision Process (MDPs): The engine of the environment
 - *Markov Decision Processes (MDPs)* is a mathematical framework for modeling complex decision-making problems under uncertainty. It consists of system states, per-state actions, a transition function, a reward signal, a horizon, a discount factor, and an initial state distribution.
@@ -121,7 +120,7 @@ Pay attention to how we try to emulate the possible reactions of the environment
 - For a state to have the *markov property*, it must contain all necessary variables to make it independent of all other states.
 - More formally, the probability of the next state, given the current state and action, is independent of the history of interactions.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/markov-property.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/markov-property.jpg" class="responsive-img" />
 
 -  The markov assumption is useful as it allows us to keep the number of variables in a state to a minimum since the more variables you add, the longer it will take the agent to learn. However, completely adhering to the markov assumption may be impractical or even impossible. 
 
@@ -140,11 +139,11 @@ Pay attention to how we try to emulate the possible reactions of the environment
 - To handle the possibility of infinite sequences of interactions, we must convey to the agent that immediate rewards are more valuable than future ones. This concept is handled by introducing a *discount factor* that reduces the value of future rewards, stabilizing the learning of the task.
 - Moreover, the more we look into the future, the more uncertainty we accumulate. Introducing a discount factor discounts these highly uncertain future rewards, preventing them from affecting our value estimates significantly.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/effect-of-discount-factor.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/effect-of-discount-factor.jpg" class="responsive-img" />
 
 - The discount factor, $\gamma$ or gamma, reduces the variance of the value prediction by considering future, more uncertain, rewards less than immediate ones, fostering urgency in the agent.
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/discount-factor.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/discount-factor.jpg" class="responsive-img" />
 
 
 
@@ -159,7 +158,7 @@ Pay attention to how we try to emulate the possible reactions of the environment
 
 ### Putting it all together
 
-<img src="assets/posts/modeling-reinforcement-learning-problem/mdps-vs-pomdps.jpg" class="responsive-img" />
+<img src="assets/img/posts/modeling-reinforcement-learning-problem/mdps-vs-pomdps.jpg" class="responsive-img" />
 
 
 ## References

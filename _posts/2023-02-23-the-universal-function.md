@@ -3,7 +3,6 @@ title: "Neural network: The universal function"
 layout: post
 author: "Ahad Jawaid"
 date: "2023-02-23"
-img: "assets/filling-machine.png"
 categories: [Deep Learning, Neueral Networks]
 ---
 
@@ -33,7 +32,7 @@ Now that we have established what an adjustable function is, let’s look at how
 
 This process can be illustrated in the following diagram:
 
-<img src="assets/posts/the-universal-function/model.png" width="100%" />
+<img src="assets/img/posts/the-universal-function/model.png" width="100%" />
 
 As simple as this may seem, this is the core of how a neural network learns a task. It starts by guessing an output, and then we adjust the weights to make it look more like the desired output.
 
@@ -60,7 +59,7 @@ The problem with this method is that it could give us negative values, which can
 
 The last addition to adjust the weights automatically is to find the direction and extent of the weights to be changed. We can accomplish this by using a concept from calculus known as the derivative, which is the slope of the function at a specific point. By finding the slope or derivative, we can determine the direction and amount to change the weights.
 
-<img src="assets/posts/the-universal-function/tanget.png" width="100%" />
+<img src="assets/img/posts/the-universal-function/tanget.png" width="100%" />
 
 So in this illustration, we can find that the slope at point one is two by using the rise-over run of the tangent line (a line that touches the function at a point). We can use this slope or derivative to determine in what direction and how much to change the weights. This is done because of a property that a derivative has, which is when the derivative is zero, it is at the minimum or maximum (or saddle point) of the function. We can take advantage of this property with our method of measuring the error to find the minimum of the error.
 
@@ -75,7 +74,7 @@ The heart of deep learning lies in the ability of neural networks to learn any t
     4. Subtract the derivative of the weights from the weights
     5. Repeat until the error is small
 
-<img src="assets/posts/the-universal-function/universal-function.png" width="100%" />
+<img src="assets/img/posts/the-universal-function/universal-function.png" width="100%" />
 
 Everything else is focused on making the training process efficient and timely.
 
