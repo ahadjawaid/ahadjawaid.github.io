@@ -6,4 +6,4 @@ related_posts: false
 link: https://devpost.com/software/curis-rlajbk
 ---
 
-Won 1st place in the Patient Safety challenge at HackUTD X
+Won 1st place in the Patient Safety challenge at HackUTD X :trophy:
