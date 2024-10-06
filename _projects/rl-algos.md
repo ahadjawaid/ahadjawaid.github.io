@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Reinforcement Learning Algorithms"
 description: "A library filled with my implentation of reinforcement learning algorithms."
 date: 2023-07-28

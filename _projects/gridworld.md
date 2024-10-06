@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Simple Gridworld"
 description: "A gridworld used for training reinforcement learning algorithms using the openai's gym library."
 date: 2023-07-20

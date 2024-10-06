@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Multi Armed Bandits"
 description: "A library contained Multi-Armed Bandit environments built ontop of openai's gym library."
 date: 2023-07-20
