@@ -3,7 +3,7 @@ title: "Modeling the Reinforcement Learning Problem"
 author: "Ahad Jawaid"
 layout: post
 date: "2023-07-01"
-thumbnail: assets/img/posts/modeling-reinforcement-learning-problem/blackboard.jpg
+thumbnail: assets/img/posts/modeling-reinforcement-learning-problem/blackboard.png
 description: My notes on the second chapter of 'Grokking Deep Reinforcement Learning' by Miguel Morales. This post covers the components of the environment and how to model it using Markov Decision Processes (MDPs).
 categories: [Deep Reinforcement Learning]
 ---
