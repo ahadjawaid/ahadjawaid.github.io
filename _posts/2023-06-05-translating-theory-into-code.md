@@ -4,7 +4,7 @@ layout: post
 description: This guide covers effective reading, model implementation, code validation, and the power of repetition.
 author: "Ahad Jawaid"
 date: "2023-06-05"
-thumbnail: assets/img/posts/the-universal-function/read_code_visualize_diagram.svg
+thumbnail: assets/img/posts/translating-theory-into-code/read_code_visualize_diagram.svg
 categories: [Research]
 ---
 
