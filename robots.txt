@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ahadjawaid.github.io/sitemap.xml
+Sitemap: https://www.ahadjawaid.com/sitemap.xml
