@@ -6,15 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching
-
-## Artificial Intelligence Society
-
-
-
 ### Workshops
-
-
 
 #### Deep Learning with fast.ai
 This workshop covered the fundamentals of deep learning using the fast.ai library. It includes practical coding examples and insights on how to implement deep learning models efficiently.
@@ -28,6 +20,7 @@ This workshop, hosted at HackUTD, introduced participants to the Hugging Face ec
 - [Workshop materials on GitHub](https://github.com/ahadjawaid/hackutd-hf-workshop)
 
 
+---
 
 ### ML Mondays
 
@@ -83,7 +76,4 @@ A deeper dive into reinforcement learning, with practical examples and coding ex
 
 - [Watch the session](https://www.youtube.com/watch?v=hQhqNCOdWLk)
 
----
-
-This section will be expanded with more course materials and workshops in the future!
 
