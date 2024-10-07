@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.utdallas.edu/'>University of Texas at Dallas</a>.
+subtitle: <a href='https://www.utdallas.edu/'>The University of Texas at Dallas</a>
 
 profile:
   align: right
