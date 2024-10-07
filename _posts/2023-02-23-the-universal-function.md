@@ -19,7 +19,7 @@ A function is a mapping of an input to an output. For instance, an addition func
 
 An adjustable function, on the other hand, is a function that has weights or parameters that regulate how the inputs are modified to generate a specific output. For example, a function f that takes two numbers as inputs can be expressed as
 
->    ```f(input1, input2) = weight1 * input1 + weight2 * input2```
+> `f(input1, input2) = weight1 * input1 + weight2 * input2`
 
 Here, we can change the function by adjusting the weights.
 
@@ -48,13 +48,13 @@ Adjusting the weights automatically is where it gets interesting. Let’s assume
 
 To find how far we are from the desired output, we can subtract our function’s output and the desired output,
 
->    ```f(input1, input2) = 5```
->    ```goal_function(input1, input2) = 10```
->    ```error = 5–10 = -5```
+> `f(input1, input2) = 5`
+> `goal_function(input1, input2) = 10`
+> `error = 5–10 = -5`
 
 The problem with this method is that it could give us negative values, which can be problematic when attempting to minimize the error. To address this issue, we can bound the method by taking the absolute value of the subtraction (positive number).
 
->    ```error = | 5–10 | = 5```
+> `error = | 5–10 | = 5`
 
 ## Method for determining how to adjust weights
 

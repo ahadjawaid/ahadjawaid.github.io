@@ -27,29 +27,35 @@ Reading a research paper should be focused on understanding the process rather t
 To expedite the reading process, it helps to know where to find necessary details. Typically, the most crucial sections in a research paper are:
 
 1. **Abstract**
-    - Provides a broad understanding of the paper and its relevance.
+
+   - Provides a broad understanding of the paper and its relevance.
 
 2. **Figures**
-    - Often encapsulate the paper's content and are valuable for understanding the model's workings. However, ensure their accuracy by cross-referencing the textual content.
+
+   - Often encapsulate the paper's content and are valuable for understanding the model's workings. However, ensure their accuracy by cross-referencing the textual content.
 
 3. **Introduction**
-    - Highlights the paper's novelty or significance.
+
+   - Highlights the paper's novelty or significance.
 
 4. **Architecture (Can go by other names)**
-    - Contains detailed descriptions of the architecture (usually where most of your time will be spent).
+
+   - Contains detailed descriptions of the architecture (usually where most of your time will be spent).
 
 5. **Training**
-    - Provides hyperparameters for training, model performance, and other essential information.
+
+   - Provides hyperparameters for training, model performance, and other essential information.
 
 6. **The appendix**
-    - Often contains implementation details not fitting into the main paper's flow.
+
+   - Often contains implementation details not fitting into the main paper's flow.
 
 7. **Experiements** (Optional)
-    - Can include important data and parameters used for model training.
+   - Can include important data and parameters used for model training.
 
 ## Implement
 
-During implementation, the key is not to get overwhelmed by the complexity of the task. Instead, focus on the components you understand, and incrementally build upon them. It's okay if your code isn't flawless initially; revisions can be made as you progress. 
+During implementation, the key is not to get overwhelmed by the complexity of the task. Instead, focus on the components you understand, and incrementally build upon them. It's okay if your code isn't flawless initially; revisions can be made as you progress.
 
 ## Visualize
 
