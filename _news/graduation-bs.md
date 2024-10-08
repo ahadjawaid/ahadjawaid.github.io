@@ -6,4 +6,4 @@ related_posts: false
 link: https://devpost.com/software/curis-rlajbk
 ---
 
-Graduated with my Bachelor's in Computer Science 🎓
+Graduated with a Bachelor's in Computer Science 🎓

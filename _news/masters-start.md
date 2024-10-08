@@ -6,4 +6,4 @@ related_posts: false
 link: https://devpost.com/software/curis-rlajbk
 ---
 
-Started my Master's program in Computer Science at UT Dallas 🎉
+Started a Master's program in Computer Science at UT Dallas 🎉
