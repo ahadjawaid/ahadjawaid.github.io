@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a Master's program in Computer Science at UT Dallas 🎉
+Started a Master's program in Computer Science at UT Dallas!
