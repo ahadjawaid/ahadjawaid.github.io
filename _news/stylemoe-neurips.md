@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[StyleMoE](https://openreview.net/pdf?id=TBhSuVabsc) was accepted to Audio Imagination: NeurIPS 2024 Workshop! 🎉
+[StyleMoE](https://stylemoe.github.io/styleMoE/) was accepted to Audio Imagination: NeurIPS 2024 Workshop! 🎉
