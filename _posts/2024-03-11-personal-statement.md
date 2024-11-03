@@ -5,7 +5,7 @@ date: "2024-11-03"
 layout: post
 
 thumbnail: assets/img/posts/personal-statement/copywriter.png
-description: This post provides an overview of writing a personal statement.
+description: An overview of how I write my personal statements.
 categories: [Graduate School, Fellowships]
 ---
 
@@ -131,5 +131,3 @@ My writing process generally follows four steps:
 4. **Review**: I have others review my writing for readability. Incorporating their feedback is important to ensure the writing flows smoothly and is easy to understand.
 
 If you have further questions, feel free to reach out to me.
-
----
