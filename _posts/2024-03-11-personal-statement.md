@@ -30,7 +30,7 @@ The structure I used for my NSF Graduate Fellowship personal statement was:
 
 1. [Introduction](#introduction)
 2. [Intellectual Merit](#experiences) (Experiences)
-3. [Broader Impacts](#impacts)
+3. [Broader Impacts](#broader-impacts)
 4. [Future Goals](#future-goals)
 
 For fellowships, a recommended structure is often provided, so refer to specific fellowship guidelines. Generally, the structure is designed to present a cohesive story that addresses all essential points.
@@ -55,7 +55,7 @@ Here, I acknowledged my limited publication record—a common metric of research
 
 ## Experiences
 
-The experiences section doesn’t require a unique formula, but I found the STAR method effective. It’s commonly used in interviews and is helpful in writing about experiences concisely:
+The experiences section is usually simpler to write, and I found the STAR method effective. Commonly used in interviews, it helps in writing about experiences concisely:
 
 - **Situation**: Provide background.
 - **Task**: Explain what you were trying to accomplish.
