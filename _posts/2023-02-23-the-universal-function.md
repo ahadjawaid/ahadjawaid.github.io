@@ -48,9 +48,7 @@ Adjusting the weights automatically is where it gets interesting. Let’s assume
 
 To find how far we are from the desired output, we can subtract our function’s output and the desired output,
 
-> `f(input1, input2) = 5`
-> `goal_function(input1, input2) = 10`
-> `error = 5–10 = -5`
+> `f(input1, input2) = 5` > `goal_function(input1, input2) = 10` > `error = 5–10 = -5`
 
 The problem with this method is that it could give us negative values, which can be problematic when attempting to minimize the error. To address this issue, we can bound the method by taking the absolute value of the subtraction (positive number).
 
