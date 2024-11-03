@@ -79,6 +79,14 @@ Here's an example from my statement:
 
 Sometimes, even with a strong structure, an experience may not fit well into your narrative. In such cases, it’s worth pursuing new experiences that better support your story.
 
+### Writing Results
+
+When writing about results, it's crucial to articulate the impact of your actions clearly. This can include tangible outcomes, like speed improvements, cost savings, or research publications. But when tangible metrics aren't available, you can still highlight what you learned or the skills you developed.
+
+For example, a common job experience, like being a cashier, can be written from the perspective of the impact you made. Instead of saying, “I worked as a cashier at Walmart for four months,” you could frame it as: “I helped process approximately $100,000 in transactions over a four-month period, ensuring smooth and accurate customer interactions.” This shifts the focus to the benefit you created for the employer, making your contribution clearer and more impactful.
+
+Being creative with how you present your results can make a big difference. However, it’s essential to stay truthful and not exaggerate your impact. The goal is to frame your achievements in a way that emphasizes your contributions without distorting reality.
+
 ## Broader Impacts
 
 Most personal statements require a section demonstrating how you’ll benefit others or society. For the NSF, this involves broader impacts like broadening participation in STEM. This section follows a modified STAR approach, with an added focus on future plans (STARF):
