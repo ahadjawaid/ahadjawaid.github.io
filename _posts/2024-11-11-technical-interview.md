@@ -17,19 +17,19 @@ Technical interviews at big tech companies, particularly those modeled after "FA
 
 Here’s the process I typically follow during a technical interview:
 
-1. **Read the Problem Carefully**
-2. **Clarify Questions on the Problem**
-3. **Identify Edge Cases** (Optional)
+1. **Read the Problem**
+2. **Clarify Assumptions**
+3. **Identify Test Cases** (Optional)
 4. **Consider Potential Solutions**
 5. **Confirm and Choose the Best Solution**
 6. **Code the Solution**
-7. **Dry Run Using Edge Cases** (Optional)
+7. **Dry Run Using Test Cases** (Optional)
 
 #### 1. Read the Problem
 
 While reading the problem, I try not to go silent. Speaking out loud helps communicate my understanding to the interviewer. Here, it’s important for me to understand the relationship between the inputs and outputs. 
 
-#### 2. Clarify Questions on the Problem
+#### 2. Clarify Assumptions
 
 After understanding the intial prompt, I validate my assumptions by asking the interviewer. Holding an incorrect assumption throughout the interview can lead to solving the wrong problem. Asking questions can prevent misunderstandings and allows me to validate the problem requirements directly with the interviewer.
 
@@ -55,7 +55,7 @@ Once I decide on the optimal solution, I confirm with the interviewer before cod
 
 With the go-ahead, I start coding the solution, narrating my thought process to give insight into my choices. For example, I might say, “I’m using a dictionary here to achieve faster lookups, which reduces time complexity.” This part relies heavily on your implementation skills and effective communication.
 
-#### 7. Dry Run Using Edge Cases (Optional)
+#### 7. Dry Run Using Test Cases (Optional)
 
 If there’s time, I walk through the code with my test cases, effectively "debugging" manually. I step through each line of code, tracking variable changes and outputs to ensure accuracy. For example, here’s how I might track variables:
 
@@ -77,7 +77,7 @@ fn(array=[1, 2, 3, 4], target=5)
 
 Managing time well during technical interviews is crucial. Many candidates can solve common patterns with enough time, but the key to standing out is delivering a clear solution within the given timeframe. For optional steps like dry-running, I adjust based on how much time remains. If I'm running low, I may skip the dry run, especially if I didn't define edge cases earlier. Similarly, if I'm struggling to come up with the optimal solution, I’ll proceed with a simpler approach rather than leaving the problem unsolved.
 
-## Preparation Strategies
+## Preparation
 
 To do well with this formula, I focus on three skills:
 
