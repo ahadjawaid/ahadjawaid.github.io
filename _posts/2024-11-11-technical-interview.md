@@ -17,13 +17,7 @@ Technical interviews at big tech companies, particularly those modeled after "FA
 
 Here’s the process I typically follow during a technical interview:
 
-1. **Read the Problem**
-2. **Clarify Assumptions**
-3. **Identify Test Cases** (Optional)
-4. **Consider Potential Solutions**
-5. **Confirm and Choose the Best Solution**
-6. **Code the Solution**
-7. **Dry Run Using Test Cases** (Optional)
+{% include figure.liquid loading="eager" path="assets/img/posts/technical-interview/technical-interview.png" class="img-fluid rounded z-depth-1" %}
 
 #### 1. Read the Problem
 
@@ -43,11 +37,11 @@ array = [1, 2, 3, 4], target = 5 -> [1, 2]
 
 Specifying the expected inputs and outputs clarifies my understanding, and I validate these cases are correct with the interviewer. These initial test cases also help verify my solution once it’s implemented.
 
-#### 4. Consider Potential Solutions
+#### 4. List Potential Solutions
 
 Next, I start brainstorming solutions based on familiar patterns, such as "two-pointer" methods for arrays or hash maps for fast lookups. Initially, I might discuss a brute-force approach before working towards an optimized solution. When discussing each option, I evaluate its time and space complexity to justify my choice.
 
-#### 5. Confirm and Choose the Best Solution
+#### 5. Choose a Solution
 
 Once I decide on the optimal solution, I confirm with the interviewer before coding. This helps ensure they agree with my approach, avoiding potential misunderstandings.
 
@@ -55,7 +49,7 @@ Once I decide on the optimal solution, I confirm with the interviewer before cod
 
 With the go-ahead, I start coding the solution, narrating my thought process to give insight into my choices. For example, I might say, “I’m using a dictionary here to achieve faster lookups, which reduces time complexity.” This part relies heavily on your implementation skills and effective communication.
 
-#### 7. Dry Run Using Test Cases (Optional)
+#### 7. Dry Run Solution (Optional)
 
 If there’s time, I walk through the code with my test cases, effectively "debugging" manually. I step through each line of code, tracking variable changes and outputs to ensure accuracy. For example, here’s how I might track variables:
 
