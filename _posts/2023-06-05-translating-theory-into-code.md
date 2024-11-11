@@ -6,6 +6,7 @@ author: "Ahad Jawaid"
 date: "2023-06-05"
 thumbnail: assets/img/posts/translating-theory-into-code/read_code_visualize_diagram.svg
 categories: [Research]
+giscus_comments: true
 ---
 
 ## Introduction

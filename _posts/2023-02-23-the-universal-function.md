@@ -5,6 +5,7 @@ author: "Ahad Jawaid"
 date: "2023-02-23"
 thumbnail: assets/img/posts/the-universal-function/filling-machine.png
 categories: [Deep Learning, Neueral Networks]
+giscus_comments: true
 ---
 
 Have you ever imagined a single machine that can adapt to any role given to it? It could be a screw, a tire, a screen or any other task you could think of. That’s what a neural network is for software — a function that can perform any task.

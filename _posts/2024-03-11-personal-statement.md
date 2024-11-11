@@ -7,6 +7,7 @@ layout: post
 thumbnail: assets/img/posts/personal-statement/copywriter.png
 description: An overview of how I write my personal statements.
 categories: [Graduate School, Fellowships]
+giscus_comments: true
 ---
 
 As students, we often need to write personal statements of purpose for university admissions and fellowship applications. Here, I wanted to share my experiences writing personal statements over the years. I've previously written personal statements for fellowships and university admissions.

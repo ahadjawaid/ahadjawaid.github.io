@@ -6,6 +6,7 @@ date: "2023-06-27"
 thumbnail: assets/img/posts/introduction-to-deep-reinforcement-learning/neural.png
 description: My notes on Deep Reinforcement Learning (DRL) based on the first chapter of the 'Grokking Deep Reinforcement Learning' by Miguel Morales.
 categories: [Deep Reinforcement Learning, Notes]
+giscus_comments: true
 ---
 
 <style>

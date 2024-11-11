@@ -7,6 +7,7 @@ layout: post
 thumbnail: assets/img/posts/technical-interview/programming.png
 description: An overview of how approach technical coding interviews.
 categories: [Interview, Programming]
+giscus_comments: true
 ---
 
 I recently started preparing for interviews again, and through discussions with friends, I noticed how to approach technical interviews isn't always clear. While there are many people with more experience interviewing at top companies than me, I thought I'd share my approach which has worked for me in interviews with Amazon, Goldman Sachs, Capital One, and Toyota.
@@ -17,7 +18,7 @@ Technical interviews at big tech companies, particularly those modeled after "FA
 
 Here’s the process I typically follow during a technical interview:
 
-{% include figure.liquid loading="eager" path="assets/img/posts/technical-interview/technical-interview.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/posts/technical-interview/technical-interview.png" class="img-fluid rounded z-depth-1 w-50" %}
 
 #### 1. Read the Problem
 
