@@ -18,7 +18,7 @@ Technical interviews at big tech companies, particularly those modeled after "FA
 
 Here’s the process I typically follow during a technical interview:
 
-{% include figure.liquid loading="eager" path="assets/img/posts/technical-interview/technical-interview.png" class="img-fluid rounded z-depth-1 w-50 mx-auto" %}
+{% include figure.liquid loading="eager" path="assets/img/posts/technical-interview/technical-interview.png" class="img-fluid rounded z-depth-1 w-50 mx-auto d-block" %}
 
 #### 1. Read the Problem
 
