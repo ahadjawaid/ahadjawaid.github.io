@@ -9,7 +9,7 @@ description: An overview of how approach technical coding interviews.
 categories: [Interview, Programming]
 ---
 
-I recently started preparing for interviews again, and through discussions with friends, I noticed that how to approach technical interviews isn't always obvious to others. While there are many people with more experience interviewing at top companies than me, I thought I'd share what has worked for me in interviews with Amazon, Goldman Sachs, Capital One, and Toyota.
+I recently started preparing for interviews again, and through discussions with friends, I noticed how to approach technical interviews isn't always clear. While there are many people with more experience interviewing at top companies than me, I thought I'd share my approach which has worked for me in interviews with Amazon, Goldman Sachs, Capital One, and Toyota.
 
 Technical interviews at big tech companies, particularly those modeled after "FAANG" (Facebook, Amazon, Apple, Netflix, Google), tend to follow a specific format. Often, you're given a problem similar to a "LeetCode" esque question, with around 20 to 45 minutes to solve it. Some companies, like Meta, may even ask their applicants solving two questions within a 40 minutes interval.
 
