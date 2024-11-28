@@ -1,7 +1,7 @@
 ---
-title: "An Approach to the Technical Coding Interivew"
+title: "An Approach to the Technical Coding Interview"
 author: "Ahad Jawaid"
-date: "2024-11-03"
+date: "2024-11-11"
 layout: post
 
 thumbnail: assets/img/posts/technical-interview/programming.png
