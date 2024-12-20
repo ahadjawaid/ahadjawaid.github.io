@@ -1,7 +1,7 @@
 ---
 title: "The Usability Problem for AI"
 author: "Ahad Jawaid"
-date: "2024-11-11"
+date: "2024-12-20"
 layout: post
 
 categories: [Essay, AI]
