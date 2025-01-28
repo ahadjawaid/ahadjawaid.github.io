@@ -22,7 +22,7 @@ Here’s the process I typically follow during a technical interview:
 
 #### 1. Read the Problem
 
-While reading the problem, I try not to go silent. Speaking out loud helps communicate my understanding to the interviewer. Here, it’s important for me to understand the relationship between the inputs and outputs. 
+While reading the problem, I try not to go silent. Speaking out loud helps communicate my understanding to the interviewer. Here, it’s important for me to understand the relationship between the inputs and outputs.
 
 #### 2. Clarify Assumptions
 
@@ -83,9 +83,9 @@ To do well with this formula, I focus on three skills:
 For the first two, practicing problems on platforms like LeetCode is useful, while mock interviews are helpful for improving verbal explanations.
 
 I've also included some resources that helped me improve these skills:
+
 - [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview): Useful for understanding main coding patterns.
 - [NeetCode Practice Set](https://neetcode.io/practice): A curated set of practice problems across various patterns.
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions): A popular list of LeetCode problems that teaches you patterns.
-
 
 Thanks for reading about my approach to technical interviews. I hope this overview provides a useful perspective, and I'm happy to answer any questions you might have!

@@ -40,7 +40,7 @@ For fellowships, a recommended structure is often provided, so refer to specific
 
 The introduction should draw the reader in, and many applicants do this through a personal anecdote. Here’s an example of the approach I used for the NSF fellowship:
 
-> "python inputBankingInfo.py Running... Finished. And with that, it was done." The perpetual twelve hours of weekly data entry into Excel spreadsheets had forever ended. As an assistant real estate manager, I was tasked with repetitive work, like data entry. Every day, I slogged through inputting tenants' accounts payable into an Excel sheet, thinking there had to be a better way. That’s when I discovered *Automate the Boring Stuff with Python*, my first programming book, and automated the data entry process—marking the beginning of my journey as a programmer.
+> "python inputBankingInfo.py Running... Finished. And with that, it was done." The perpetual twelve hours of weekly data entry into Excel spreadsheets had forever ended. As an assistant real estate manager, I was tasked with repetitive work, like data entry. Every day, I slogged through inputting tenants' accounts payable into an Excel sheet, thinking there had to be a better way. That’s when I discovered _Automate the Boring Stuff with Python_, my first programming book, and automated the data entry process—marking the beginning of my journey as a programmer.
 
 Many successful introductions start with a story that engages the reader. For me, this example outlines how I got into programming. I’ve found that writing an introduction in a style you’re comfortable with is important; avoid forcing a tone that feels unnatural.
 
@@ -65,18 +65,20 @@ The experiences section is usually simpler to write, and I found the STAR method
 
 Here's an example from my statement:
 
-- **Situation**: 
-> During the summer before my junior year, I collaborated with Dr. Kangkook Jee in his System Security Lab at the University of Texas at Dallas (UTD).
+- **Situation**:
 
-- **Task**: 
-> My role was to extend the Graph Neural Network (GNN) Explainer algorithm to work with heterogeneous graphs, enabling us to generate explanations about why the GNN classifier detected a program as malicious based on the corresponding heterogeneous resource interaction graph.
+  > During the summer before my junior year, I collaborated with Dr. Kangkook Jee in his System Security Lab at the University of Texas at Dallas (UTD).
 
+- **Task**:
 
-- **Action**: 
-> After programming the algorithm, I validated its accuracy by applying it to a classifier trained on the MUTAG (Mutagenic Chemicals) dataset. I confirmed the reliability of the algorithm’s explanations by comparing the molecules it identified as most important for classification as a mutagenic compound to established scientific ground truths, finding a strong match with existing research.
+  > My role was to extend the Graph Neural Network (GNN) Explainer algorithm to work with heterogeneous graphs, enabling us to generate explanations about why the GNN classifier detected a program as malicious based on the corresponding heterogeneous resource interaction graph.
 
-- **Result**: 
-> This work led to my open-source contribution of the algorithm to the Deep Graph Library, the second-largest GNN library, and the algorithm was later used in the lab’s research publication.
+- **Action**:
+
+  > After programming the algorithm, I validated its accuracy by applying it to a classifier trained on the MUTAG (Mutagenic Chemicals) dataset. I confirmed the reliability of the algorithm’s explanations by comparing the molecules it identified as most important for classification as a mutagenic compound to established scientific ground truths, finding a strong match with existing research.
+
+- **Result**:
+  > This work led to my open-source contribution of the algorithm to the Deep Graph Library, the second-largest GNN library, and the algorithm was later used in the lab’s research publication.
 
 Sometimes, even with a strong structure, an experience may not fit well into your narrative. In such cases, it’s worth pursuing new experiences that better support your story.
 
@@ -92,20 +94,24 @@ Being creative with how you present your results can make a big difference. Howe
 
 Most personal statements require a section demonstrating how you’ll benefit others or society. For the NSF, this involves broader impacts like broadening participation in STEM. This section follows a modified STAR approach, with an added focus on future plans (STARF):
 
-- **Situation**: 
-> When I first began learning about machine learning, I found the mathematical concepts intimidating.
+- **Situation**:
 
-- **Task**: 
-> This inspired me to help others by explaining these ideas in a more accessible way, only requiring a basic understanding of mathematics (such as understanding the slope of a line).
+  > When I first began learning about machine learning, I found the mathematical concepts intimidating.
 
-- **Action**: 
-> To that end, I became the workshop lead for the Artificial Intelligence Society, a campus organization, where I developed and presented eleven workshops and led a team of four to create nine of those workshops. I particularly encouraged students from various backgrounds to attend my workshops, even if they didn’t have a background in computer science. These workshops covered areas such as Deep Learning, Computer Vision, Natural Language Processing, Model Deployment, and Reinforcement Learning.
+- **Task**:
 
-- **Results**: 
-> The largest event had around 300 participants, while on average, each workshop attracted 57 students. Our feedback data showed an average engagement rating of 4.1/5.0, with 96% of participants indicating they learned something new.
+  > This inspired me to help others by explaining these ideas in a more accessible way, only requiring a basic understanding of mathematics (such as understanding the slope of a line).
 
-- **Future**: 
-> Moving forward, I plan to continue educating students through workshops and YouTube videos, presenting AI techniques in a simple and accessible manner to foster a diverse and vibrant AI community.
+- **Action**:
+
+  > To that end, I became the workshop lead for the Artificial Intelligence Society, a campus organization, where I developed and presented eleven workshops and led a team of four to create nine of those workshops. I particularly encouraged students from various backgrounds to attend my workshops, even if they didn’t have a background in computer science. These workshops covered areas such as Deep Learning, Computer Vision, Natural Language Processing, Model Deployment, and Reinforcement Learning.
+
+- **Results**:
+
+  > The largest event had around 300 participants, while on average, each workshop attracted 57 students. Our feedback data showed an average engagement rating of 4.1/5.0, with 96% of participants indicating they learned something new.
+
+- **Future**:
+  > Moving forward, I plan to continue educating students through workshops and YouTube videos, presenting AI techniques in a simple and accessible manner to foster a diverse and vibrant AI community.
 
 This approach links past impacts to future plans, making them credible.
 
@@ -113,14 +119,16 @@ This approach links past impacts to future plans, making them credible.
 
 The future goals section ties everything together. It should connect your introduction, experiences, and broader impacts, showing how the opportunity you’re applying for will help you achieve your objectives and contribute to the organization's goals.
 
-- **Objective**: 
-> After completing my master's, I plan to continue my research in robotics by pursuing a PhD in Computer Science and later becoming a research scientist. In my research career, my primary goal is to develop autonomous robots capable of reliably performing a wide range of tasks defined by humans, using natural inputs like text.
+- **Objective**:
 
-- **Experiences and Impacts**: 
-> My experiences in both research and industry have equipped me with the technical and interpersonal skills necessary for a successful research career. Additionally, my experiences running workshops and helping students find jobs have instilled in me a deep commitment to educating and assisting others.
+  > After completing my master's, I plan to continue my research in robotics by pursuing a PhD in Computer Science and later becoming a research scientist. In my research career, my primary goal is to develop autonomous robots capable of reliably performing a wide range of tasks defined by humans, using natural inputs like text.
 
-- **Support and Alignment**: 
-> Receiving the NSF Graduate Research Fellowship would enhance my future research by giving me the flexibility to explore areas I find both interesting and impactful, as well as the freedom to continue to help other students. Awarding the fellowship to me would enable the NSF to further its mission of advancing artificial intelligence in robotics and broadening participation in the tech field.
+- **Experiences and Impacts**:
+
+  > My experiences in both research and industry have equipped me with the technical and interpersonal skills necessary for a successful research career. Additionally, my experiences running workshops and helping students find jobs have instilled in me a deep commitment to educating and assisting others.
+
+- **Support and Alignment**:
+  > Receiving the NSF Graduate Research Fellowship would enhance my future research by giving me the flexibility to explore areas I find both interesting and impactful, as well as the freedom to continue to help other students. Awarding the fellowship to me would enable the NSF to further its mission of advancing artificial intelligence in robotics and broadening participation in the tech field.
 
 ## Writing Process
 
